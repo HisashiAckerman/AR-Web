@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074754141751",
+    "firebase_url": "https://nekochan-app.firebaseio.com",
+    "project_id": "nekochan-app",
+    "storage_bucket": "nekochan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074754141751:android:57833dfa713664b8a349b2",
+        "android_client_info": {
+          "package_name": "com.App.Nekochan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074754141751-3olqi273gt7pu1ospiukqbn5v8vjqbru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcWu7I3btu-SpKZ0LASnlQ_U8X2DzLr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074754141751-3olqi273gt7pu1ospiukqbn5v8vjqbru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
